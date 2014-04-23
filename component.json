@@ -1,0 +1,18 @@
+{
+  "name": "sticky",
+  "repo": "heatroom/sticky",
+  "description": "Makes an element on the page stick on the screen as you scroll",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "sticky.css"
+  ]
+}
